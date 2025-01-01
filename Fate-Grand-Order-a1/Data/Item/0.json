@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "name": "测试商品",
+    "description": "",
+    "price": 100,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/001",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  },
+  {
+    "id": 2,
+    "name": "测试商品2",
+    "description": "",
+    "price": 200,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/002",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  },
+  {
+    "id": 3,
+    "name": "测试商品3",
+    "description": "",
+    "price": 300,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/003",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  }
+  ,
+  {
+    "id": 4,
+    "name": "测试商品4",
+    "description": "",
+    "price": 300,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/004",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  },
+  {
+    "id": 5,
+    "name": "测试商品5",
+    "description": "",
+    "price": 300,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/005",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  },
+  {
+    "id": 6,
+    "name": "测试商品6",
+    "description": "",
+    "price": 300,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/006",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  },
+  {
+    "id": 7,
+    "name": "测试商品7",
+    "description": "",
+    "price": 300,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/007",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  },
+  {
+    "id": 8,
+    "name": "测试商品8",
+    "description": "",
+    "price": 300,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/008",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  },
+  {
+    "id": 9,
+    "name": "测试商品9",
+    "description": "",
+    "price": 300,
+    "useArea": "self",
+    "useEnvironment": "all",
+    "able": 1,
+    "category": 1,
+    "icon": "item/0/009",
+    "type": [
+      "craft",
+      "normal"
+    ],
+    "effect": []
+  }
+]

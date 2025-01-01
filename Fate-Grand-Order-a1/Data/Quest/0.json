@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "title": "初始任务",
+    "content": "这个是个测试用的基础任务",
+    "condition": [
+      {
+        "type": "fight",
+        "num": 3
+      },
+      {
+        "type": "enemy:3",
+        "num": 3
+      },
+      {
+        "type": "item:3",
+        "num": 3
+      }
+    ],
+    "behavior": [
+      {
+        "text": "我了解了<继续>",
+        "effect": "quest:1"
+      },
+      {
+        "text": "管我鸟事<放弃>",
+        "effect": "exit"
+      }
+    ]
+  }
+]

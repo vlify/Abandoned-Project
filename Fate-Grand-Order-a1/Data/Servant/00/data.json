@@ -1,0 +1,105 @@
+{
+  "id": 0,
+  "name": "阿尔托利亚·潘德拉贡",
+  "sex": 1,
+  "profession": "saber",
+  "identity": "王",
+  "race": "human",
+  "love": "吃",
+  "see": 3,
+  "team_location": "Carry | Solo",
+  "weapon": [
+    "sword",
+    "pike",
+    "bow"
+  ],
+  "mainparm": "力量",
+  "weight": 30,
+  "stand": "integrity",
+  "move": 3,
+  "movetype": 2,
+  "features_num": 3,
+  "interaction_num": 3,
+  "production_num": 3,
+  "atk": 10,
+  "def": 10,
+  "hp": 100,
+  "base": {
+    "stamina": 10.0,
+    "strength": 10.0,
+    "agile": 10.0,
+    "intelligence": 10.0,
+    "spirit": 10.0,
+    "memory": 5.0,
+    "rule": 10.0
+  },
+  "up": {
+    "stamina": 0.5,
+    "strength": 1.2,
+    "agile": 0.8,
+    "intelligence": 0.5,
+    "spirit": 1.2,
+    "memory": 0.1,
+    "rule": 1.0
+  },
+  "element": {
+    "fire": 0,
+    "water": 0,
+    "thunder": 0,
+    "wind": 0,
+    "earth": 0,
+    "light": 0,
+    "dark": 0
+  },
+  "fight": {
+    "speed": 10,
+    "parry": 10,
+    "dodge": 10,
+    "crit": 10,
+    "combo": 10,
+    "hitback": 10,
+    "chanting": 10,
+    "speed_resist": 10,
+    "strong_chanting": 10,
+    "heal": 0.1,
+    "notisdead": 100
+  },
+  "equip": {
+    "head": null,
+    "body": null,
+    "foot": null,
+    "weapon": null,
+    "offhand": null
+  },
+  "item": [],
+  "features": [
+    {
+      "name": "不列颠之王",
+      "des": "传说中古不列颠最富有传奇色彩的伟大国王。\n(统御 + 10086)",
+      "effect": {
+        "fire": 1
+      }
+    },
+    {
+      "name": "风神结界",
+      "des": "藉着缠绕数层风来使光的折射率变化、遮盖刀身的结界。\n（风抗 + 10086）",
+      "effect": {
+        "stamina": 10
+      }
+    },
+    {
+      "name": "胜利之剑（鞘）",
+      "des": "亦是源自亚瑟王所安息的妖精乡Avalon的宝具。所有者会从任何伤势当中痊愈，连老化的进行也会停止。\n(战斗回复 + 10086)",
+      "effect": {
+        "stamina": 10
+      }
+    },
+    {
+      "name": "骑乘",
+      "des": "骑士王的骑术是不可小视的！\n(可使用 载具[车，船，马])",
+      "effect": {
+        "stamina": 10
+      }
+    }
+  ]
+}

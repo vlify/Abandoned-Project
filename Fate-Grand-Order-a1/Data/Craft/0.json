@@ -1,0 +1,38 @@
+[
+  {
+    "item_id": 1,
+    "platform": 1,
+    "material": [
+      {
+        "item_id": 2
+      },
+      {
+        "item_id": 3
+      }
+    ]
+  },
+  {
+    "item_id": 7,
+    "platform": 1,
+    "material": [
+      {
+        "item_id": 3
+      },
+      {
+        "item_id": 5
+      }
+    ]
+  },
+  {
+    "item_id": 8,
+    "platform": 1,
+    "material": [
+      {
+        "item_id": 1
+      },
+      {
+        "item_id": 5
+      }
+    ]
+  }
+]

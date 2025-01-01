@@ -1,0 +1,14 @@
+[
+  {
+    "item_id": 3,
+    "platform": 1,
+    "material": [
+      {
+        "item_id": 2
+      },
+      {
+        "item_id": 5
+      }
+    ]
+  }
+]

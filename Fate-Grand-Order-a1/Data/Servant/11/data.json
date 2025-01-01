@@ -1,0 +1,76 @@
+{
+  "id": 10,
+  "name": "尼禄",
+  "sex": 1,
+  "profession": "saber",
+  "identity": "平民",
+  "race": "human",
+  "love": "无",
+  "see": 1,
+  "team_location": "Carry | Solo",
+  "weapon": [
+    "sword",
+    "pike",
+    "bow"
+  ],
+  "mainparm": "力量",
+  "weight": 30,
+  "stand": "integrity",
+  "move": 3,
+  "movetype": 1,
+  "features_num": 3,
+  "interaction_num": 3,
+  "production_num": 3,
+  "atk": 10,
+  "def": 10,
+  "hp": 100,
+  "base": {
+    "stamina": 10.0,
+    "strength": 10.0,
+    "agile": 10.0,
+    "intelligence": 10.0,
+    "spirit": 10.0,
+    "memory": 5.0,
+    "rule":4.0
+  },
+  "up": {
+    "stamina": 0.5,
+    "strength": 1.2,
+    "agile": 0.8,
+    "intelligence": 0.5,
+    "spirit": 1.2,
+    "memory": 0.1,
+    "rule":0.3
+  },
+  "element": {
+    "fire": 0,
+    "water": 0,
+    "thunder": 0,
+    "wind": 0,
+    "earth": 0,
+    "light": 0,
+    "dark": 0
+  },
+  "fight": {
+    "speed": 10,
+    "parry": 10,
+    "dodge": 10,
+    "crit": 10,
+    "combo": 10,
+    "hitback": 10,
+    "speed_resist": 10,
+    "chanting": 10,
+    "strong_chanting": 10,
+    "heal": 0.1,
+    "notisdead": 100
+  },
+  "equip": {
+    "head": null,
+    "body": null,
+    "foot": null,
+    "weapon": null,
+    "offhand": null
+  },
+  "item": [],
+  "features": []
+}

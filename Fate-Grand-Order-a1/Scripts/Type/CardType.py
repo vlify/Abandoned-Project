@@ -1,0 +1,4 @@
+BUSTER = 1
+ARTS = 2
+QUICK = 3
+EX = 4

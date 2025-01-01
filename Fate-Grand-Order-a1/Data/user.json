@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "nickname": "三_七分",
+    "username": "admin",
+    "password": "123456"
+  },
+  {
+    "id": 1,
+    "nickname": "二_八分",
+    "username": "user1",
+    "password": "123456"
+  }
+]

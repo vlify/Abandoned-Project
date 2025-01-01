@@ -1,0 +1,4 @@
+NORMAL = 1
+QUEST = 2
+RESOURCE = 3
+CRAFT = 4
